@@ -124,6 +124,7 @@ def update_db_yahoo(sL):#{{{
                 rL.append(tuple(r))
             c.executemany('insert or ignore into %s values (?,?,?,?,?,?,?)' % symbol, rL)
             conn.commit()
+            os.remove(fileName)
 
         last = "2000-01-01"
         ts = datetime.datetime.strptime(last,"%Y-%m-%d")
