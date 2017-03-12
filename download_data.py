@@ -165,7 +165,7 @@ gild gntx goog hal hlf hri ibm intc ko luk ma mcd mkl mo nflx nok
 nov orcl orly otex p pfe praa prxl pzza qcom sbux
 shld swks tmfgx tsla tup urbn v vfinx voo wfc wfm wrld gld fds
 cmcsa jcp shld vix gs nvda gm msft
-aal bac _vix _tnx spy qqq voo
+aal bac _vix _tnx spy qqq voo vrx
 """
 
 proL = """
